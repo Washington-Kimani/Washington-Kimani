@@ -1,5 +1,4 @@
 # Hi There! I'm Washington👨🏾‍💻
-<br/><br/><br/><br/><br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Washington-Kimani&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-Kimani&layout=donut"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
