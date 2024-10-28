@@ -21,7 +21,7 @@
 <h1 align="center">Frameworks, Platforms and Libraries</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,nodejs,bun,express,jquery,react,electron,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,jquery,react,electron,bootstrap,tailwind,tensorflow,keras" />
   </a>
 </p>
 
