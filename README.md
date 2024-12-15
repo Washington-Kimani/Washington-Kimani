@@ -37,7 +37,7 @@
 <h1 align="center">IDEs/Editors</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,atom,eclipse,pycharm,webstorm" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,atom,eclipse,pycharm,webstorm,sublime" />
   </a>
 </p>
 
