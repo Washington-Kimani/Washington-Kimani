@@ -13,7 +13,7 @@
 <h1 align="center">Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,dart" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,python,java,dart" />
   </a>
 </p>
 
