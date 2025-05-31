@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&random=false&width=435&lines=Hi+!%F0%9F%91%8B+My+name+is+Washington+Kimani...;I+tell+computers+what+to+do%F0%9F%92%BB.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&random=false&width=435&lines=Hi+!%F0%9F%91%8B+My+name+is+Washington+Kimani...;I+tell+computers+what+to+do.)](https://git.io/typing-svg)
 ###
 
 <div align="center">
@@ -21,7 +21,7 @@
 <h1 align="center">Frameworks, Platforms and Libraries</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,jquery,react,electron,bootstrap,tailwind,tensorflow,keras" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,jquery,react,electron,bootstrap,tailwind,flask,django,tensorflow,pytorch" />
   </a>
 </p>
 
