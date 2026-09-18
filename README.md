@@ -1,10 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&random=false&width=435&lines=Hi+!%F0%9F%91%8B+My+name+is+Washington+Kimani...;I+tell+computers+what+to+do.)](https://git.io/typing-svg)
-###
+## Hello There!👋🏾<br/><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Washington-Kimani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Washington-Kimani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+My name is **Washington Kimani**. I tell computers what to do, kinda.😁<br>
+I am a Software Engineer and I enjoy building solutions. Especially for the problems that are rarely thought of. In doing so, I very often learn something new and get the chance to pass it forward to someone else.
 
 
 
