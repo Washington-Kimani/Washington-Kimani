@@ -2,7 +2,9 @@
 
 My name is **Washington Kimani**. I tell computers what to do, kinda.😁<br>
 I am a Software Engineer and I enjoy building solutions. Especially for the problems that are rarely thought of. In doing so, I very often learn something new and get the chance to pass it forward to someone else.
-
+<br>
+<br>
+I have achieved said goals with the following tools:
 
 
 
